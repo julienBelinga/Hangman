@@ -4,10 +4,10 @@ This is a simple implementation of the classic Hangman game written in LOLCODE, 
 
 This project was created as an exercise to try out LOLCODE and to have a bit of fun with the language. Although LOLCODE is not a practical language for most programming tasks, it can be a great way to learn about programming concepts in a humorous and engaging way.  
 
-## Instructions 🚀  
+## Instructions 📚
 To play the game, simply run the hangman.lol file using a LOLCODE interpreter. You will be prompted to enter a word to be guessed by the player. Once the word is entered, the player will be given a set number of guesses to try and guess the word by entering one letter at a time. For each incorrect guess, a part of the stick figure is drawn until the figure is complete and the game is lost.
 
-## Launch the project
+## Launch the project 🚀  
 - Install a LOLCODE interpreter on your computer. You can find a list of interpreters and installation instructions on the LOLCODE website (http://www.lolcode.org/).
 - Download or clone the project files from the repository.
 - Open a terminal or command prompt and navigate to the directory where the project files are located.
